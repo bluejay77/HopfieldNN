@@ -13,6 +13,8 @@ Use:
 g++ tsp.cpp -o tsp
 ./tsp
 
+This one needs debugging and adaptation.
+
 */
 
 
